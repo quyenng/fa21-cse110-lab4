@@ -1,0 +1,1 @@
+1. The bug is that the function is taking inputs as strings and failing to convert them to integers. Therefore, adding them would lead the program to use string concatenation rather than doing numerical addition. 
